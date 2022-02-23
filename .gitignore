@@ -1,1 +1,8 @@
 FastLabel/
+*.html
+*.txt
+*.pin
+*.qpf
+*.qws
+*.pof
+*.bak
